@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Disaster Lens",
+  "description": "AI-powered disaster analyzer using Gemini models to detect hazards, assess severity, and provide life-saving safety instructions from images.",
+  "requestFramePermissions": []
+}
